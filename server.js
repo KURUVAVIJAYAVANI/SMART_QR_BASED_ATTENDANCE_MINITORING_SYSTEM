@@ -453,3 +453,10 @@ app.post("/get-attendance-count", (req, res) => {
     res.json({ count: result[0].count });
   });
 });
+// npm init -y
+// npm install express cors body-parser
+// npm install mysql2
+
+// npm install QRCode
+// npm install uuid
+// 
